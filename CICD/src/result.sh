@@ -1,7 +1,7 @@
 #!/bin/bash
 STAGE_TYPE=$1
-BOT_TOKEN="6889783611:AAFFoeKYfY_Lehil4XF73-KLxsTh5iUCYQQ"
-CHAT_ID="73155291"
+BOT_TOKEN="..."
+CHAT_ID="..."
 
 sleep 5
 
